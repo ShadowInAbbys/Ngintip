@@ -35,7 +35,7 @@ python ngintip.py
 </p>
 
 ### contibute
-- rizki
-- novan
+- Sia
+- Novan
 
 
